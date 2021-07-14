@@ -6,7 +6,7 @@
 
 -   You can result like this
 
-**![](media/5336b5fa68963d31980ac9682e7cc6c6.png){: width="100%"}**
+![](media/5336b5fa68963d31980ac9682e7cc6c6.png){: width="100%"}
 
 -   Go to link and get authorization code
 
