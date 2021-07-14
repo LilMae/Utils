@@ -2,15 +2,18 @@
 
 **-This is method for connecting Colab to VScode-**
 
+
 **1. Run code below**
 
 -   You can result like this
 
-![title](media/5336b5fa68963d31980ac9682e7cc6c6.png){: width="100%" height="100%"}
+![title](media/5336b5fa68963d31980ac9682e7cc6c6.png){: width="100" height="100"}
+
 
 -   Go to link and get authorization code
 
 -   Copy it and paste it to blank
+
 
 **2. Download Cloudflared**
 
@@ -26,6 +29,7 @@
 -   Click “Install cloudflared”, and download file for your OS
 
 -   Unzip the file and save it wherever you want
+
 
 **3. VScode setting**
 
@@ -54,6 +58,7 @@
 ![텍스트이(가) 표시된 사진 자동 생성된
 설명](media/6b61ba2cd8f3965539ba3cf464902fc2.png)
 
+
 **4. adding Host**
 
 -   Go to Colab and copy this config info
@@ -70,6 +75,7 @@
 
 -   Save it!
 
+
 **5. Connect to Colab**
 
 -   From Colab copy “VSCode Remote SSH”
@@ -82,6 +88,7 @@
 -   paste it
 
 ![](media/fbaa7e4dc5faec62e2f397cf1a1ac555.png)
+
 
 **6. Remote Connection**
 
