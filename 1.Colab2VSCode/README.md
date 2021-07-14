@@ -21,7 +21,7 @@
 
 -   Go to the link “Cloudflared (Argo Tunnel)”
 
-    ![](media/06c7607bdafcfec4cb6508fd5fd791dd.png)
+![](media/06c7607bdafcfec4cb6508fd5fd791dd.png)
 
 -   Click “Install cloudflared”, and download file for your OS
 
